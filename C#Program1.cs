@@ -6,7 +6,7 @@ public class forExample
     {
         for(int i=1; i<=10; i++)
         {
-            Console.WriteLine("The value of i is: \n");
+            
             Console.WriteLine(i);
         }
     }
