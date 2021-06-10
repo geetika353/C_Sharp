@@ -1,0 +1,16 @@
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.csproj.AssemblyReference.cache
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.AssemblyInfoInputs.cache
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.AssemblyInfo.cs
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.csproj.CoreCompileInputs.cache
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.exe
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.deps.json
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.runtimeconfig.json
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.runtimeconfig.dev.json
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.dll
+E:\My Work\MyC#Project\bin\Debug\net5.0\ref\MyC#Project.dll
+E:\My Work\MyC#Project\bin\Debug\net5.0\MyC#Project.pdb
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.dll
+E:\My Work\MyC#Project\obj\Debug\net5.0\ref\MyC#Project.dll
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.pdb
+E:\My Work\MyC#Project\obj\Debug\net5.0\MyC#Project.genruntimeconfig.cache
